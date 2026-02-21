@@ -1,0 +1,8 @@
+[
+  "tests/test_dag_pipeline.py::test_pipeline",
+  "tests/test_delivery_service.py::test_delivery_success",
+  "tests/test_order_service.py::test_create_order_fail",
+  "tests/test_order_service.py::test_create_order_success",
+  "tests/test_payment_service.py::test_payment_fail",
+  "tests/test_payment_service.py::test_payment_success"
+]
